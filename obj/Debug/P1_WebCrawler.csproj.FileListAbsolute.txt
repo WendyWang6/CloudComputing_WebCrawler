@@ -1,0 +1,7 @@
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\bin\Debug\P1_WebCrawler.exe.config
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\bin\Debug\P1_WebCrawler.exe
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\bin\Debug\P1_WebCrawler.pdb
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\obj\Debug\P1_WebCrawler.csprojAssemblyReference.cache
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\obj\Debug\P1_WebCrawler.csproj.CoreCompileInputs.cache
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\obj\Debug\P1_WebCrawler.exe
+D:\UW Graduate\CSS 436 Cloud Computing\Program1\P1_WebCrawler\obj\Debug\P1_WebCrawler.pdb
